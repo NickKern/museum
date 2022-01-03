@@ -1,0 +1,22 @@
+.main-container2 {
+  position: relative;
+  width: 1440px;
+  height: 254px;
+}
+
+.window2 {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.all-pages-container2 {
+  width: 2420px;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  transition: translate;
+  transition-property: transform;
+  transition-duration: 500ms;
+  transition-timing-function: ease-in-out;
+}
