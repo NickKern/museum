@@ -1,0 +1,133 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "img": "https://github.com/Ann2206/MyLove/blob/main/assets/img/royal-place.png?raw=true",
+      "alt": "royal-place",
+      "title": "Royal Palace",
+      "p": "360° Virtual Tour",
+      "p1": "Google Street Panorama View"
+    },
+    {
+      "id": 2,
+      "img": "https://github.com/Ann2206/MyLove/blob/main/assets/img/denon-wing.png?raw=true",
+      "alt": "denon-wing",
+      "title": "Denon Wing",
+      "p": "360° Virtual Tour",
+      "p1": "Google Street Panorama View"
+    },
+    {
+      "id": 3,
+      "img": "https://github.com/Ann2206/MyLove/blob/main/assets/img/colonnade-perlault.png?raw=true",
+      "alt": "colonnade-perlault",
+      "title": "Colonnade Perrault",
+      "p": "360° Virtual Tour",
+      "p1": "Google Street Panorama View"
+    },
+    {
+      "id": 4,
+      "img": "https://github.com/Ann2206/MyLove/blob/main/assets/img/greek-hall.png?raw=true",
+      "alt": "greek-hall",
+      "title": "Greek hall",
+      "p": "360° Virtual Tour",
+      "p1": "Google Street Panorama View"
+    },
+    {
+      "id": 5,
+      "img": "https://github.com/Ann2206/MyLove/blob/main/assets/img/mona-liza.png?raw=true",
+      "alt": "mona-liza",
+      "title": "Mona Lisa",
+      "p": "360° Virtual Tour",
+      "p1": "Google Street Panorama View"
+    },
+    {
+      "id": 6,
+      "img": "https://github.com/Ann2206/MyLove/blob/main/assets/img/night-palace.png?raw=true",
+      "alt": "night-palace",
+      "title": "Night Palace",
+      "p": "360° Virtual Tour",
+      "p1": "Google Street Panorama View"
+    }
+  ],
+  "navigation": [
+    {
+      "id": 1,
+      "href": "#visiting",
+      "text": "Visiting"
+    },
+    {
+      "id": 2,
+      "href": "#explore",
+      "text": "Explore"
+    },
+    {
+      "id": 3,
+      "href": "#video",
+      "text": "Video"
+    },
+    {
+      "id": 4,
+      "href": "#gallery",
+      "text": "Gallery"
+    },
+    {
+      "id": 5,
+      "href": "#tickets",
+      "text": "Tickets"
+    },
+    {
+      "id": 6,
+      "href": "#contacts",
+      "text": "Contacts"
+    }
+  ],
+  "socials": [
+    {
+      "id": 1,
+      "href": "https://www.youtube.com/user/louvre",
+      "src": "https://raw.githubusercontent.com/Ann2206/MyLove/bbd05f945ad75522d6e8a1e1c6d376a059a63c9a/assets/svg/Youtube.svg",
+      "alt": "Youtube"
+    },
+    {
+      "id": 2,
+      "href": "https://www.instagram.com/museelouvre/",
+      "src": "https://raw.githubusercontent.com/Ann2206/MyLove/bbd05f945ad75522d6e8a1e1c6d376a059a63c9a/assets/svg/Instagram.svg",
+      "alt": "Instagram"
+    },
+    {
+      "id": 3,
+      "href": "https://www.facebook.com/museedulouvre",
+      "src": "https://raw.githubusercontent.com/Ann2206/MyLove/bbd05f945ad75522d6e8a1e1c6d376a059a63c9a/assets/svg/Facebook.svg",
+      "alt": "Facebook"
+    },
+    {
+      "id": 4,
+      "href": "http://twitter.com/museelouvre",
+      "src": "https://raw.githubusercontent.com/Ann2206/MyLove/bbd05f945ad75522d6e8a1e1c6d376a059a63c9a/assets/svg/Twitter.svg",
+      "alt": "Twitter"
+    },
+    {
+      "id": 5,
+      "href": "https://www.pinterest.fr/museedulouvre/",
+      "src": "https://raw.githubusercontent.com/Ann2206/MyLove/bbd05f945ad75522d6e8a1e1c6d376a059a63c9a/assets/svg/Pinterest.svg",
+      "alt": "Pinterest"
+    }
+  ],
+  "ticketsType": [
+    {
+      "id": 1,
+      "idRb": 1,
+      "text": "Permanent exhibition"
+    },
+    {
+      "id": 2,
+      "idRb": 2,
+      "text": "Temporary exhibition"
+    },
+    {
+      "id": 3,
+      "idRb": 3,
+      "text": "Combined Admission"
+    }
+  ]
+}
